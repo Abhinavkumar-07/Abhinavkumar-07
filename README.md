@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 ```yaml
-role: BTech CSE Student @ KIET (2nd Year)
+role: BTech CSE Student 
 focus: Full-Stack Development · Android · AI/ML Tooling
 open_to: beginner-friendly React/Next.js collaborations
 fun_fact: once spent 4 hours fixing a bug that was just a missing semicolon
